@@ -2,7 +2,8 @@
 
 # 概要
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAKCAYAAABmBXS+AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAoUlEQVQYlWP4//8/w79//xinT5+eYWlpeYyXl/eTlZXV0VmzZqX++/eP8f///wwM//79Y4yLi1vIwMDwHx0nJibO+///PwPDunXrArEpgOGNGzf6Mb99+3byvXv3lBhwgLdv34owiImJvcRnkpiY2EsmXCYgAyY9Pb1L+BTo6+tfJMrhxAUBLDCnTZuWaWFhcZyXl/eTpaXlsZkzZ6bBAhMAXSNx3OjPaXYAAAAASUVORK5CYII=) BFFとは
+![]![image](https://github.com/user-attachments/assets/0684dd44-cdcf-4fdf-b38d-83b1ee4154ee)
+ BFFとは
 
 BFF (Backend for Frontend) パターンは、アプリケーション開発、特にウェブやモバイルアプリケーションの開発において一般的なアーキテクチャモデルである。BFFの主なアイデアは、フロントエンドとバックエンドのサービス間にシンプルなインターフェースとして機能することである。
 
